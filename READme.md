@@ -4,10 +4,13 @@
 ## 📎 Submission Links (fill before submitting)
 - ERD public link:(https://app.diagrams.net/?utm_source=chatgpt.com#G1mmK6MbfprrJb31Lfz9x5kj1T61vy1DTw#%7B%22pageId%22%3A%22id0QN1zqxy0xKjJY8VQb%22%7D)
 
-- GitHub repository link: ___________________________
-- Interview video link (YouTube unlisted / Google Drive): __________________
 
-Please paste the final public links above before you submit to ensure graders can access all deliverables.
+- GitHub repository link: https://github.com/ALAMIN761740/football-ticket-booking-system-l2a3
+
+
+- Interview video link (YouTube unlisted): https://youtube.com/shorts/LDbIf-I3W8A?si=POlYM70bH2JBa89X
+
+
 
 
 
