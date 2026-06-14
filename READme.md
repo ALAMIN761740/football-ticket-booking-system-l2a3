@@ -1,8 +1,8 @@
 # ⚽ Football Ticket Booking System
 
 
-## 📎 Submission Links (fill before submitting)
-- ERD public link:(https://app.diagrams.net/?utm_source=chatgpt.com#G1mmK6MbfprrJb31Lfz9x5kj1T61vy1DTw#%7B%22pageId%22%3A%22id0QN1zqxy0xKjJY8VQb%22%7D)
+## 📎 Submission Links 
+- ERD public link:https://app.diagrams.net/?utm_source=chatgpt.com#G1mmK6MbfprrJb31Lfz9x5kj1T61vy1DTw#%7B%22pageId%22%3A%22id0QN1zqxy0xKjJY8VQb%22%7D
 
 
 - GitHub repository link: https://github.com/ALAMIN761740/football-ticket-booking-system-l2a3
